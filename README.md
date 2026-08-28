@@ -10,7 +10,7 @@
 
 <br>
 
-<h2 align="center">♞ About me</h2>
+<h2 align="center"><img src="https://cdn-icons-png.flaticon.com/512/2589/2589903.png" width="22"/> About me</h2>
 
 <p align="center">
 Hello there! <b><i>I'm Johan</i></b>, a Computer Science Engineering student currently in my 2nd year at SRM Institute of Science and Technology, KTR Campus. I enjoy learning new technologies, sharpening my problem-solving skills, and figuring out how things work under the hood.
@@ -29,7 +29,7 @@ I'm currently focused on strengthening my fundamentals in Data Structures & Algo
 
 <br>
 
-<h2 align="center">⚙️ Technologies</h2>
+<h2 align="center"><img src="https://cdn-icons-png.flaticon.com/512/3524/3524659.png" width="22"/> Technologies</h2>
 
 <div align="center">
 
@@ -47,7 +47,7 @@ I'm currently focused on strengthening my fundamentals in Data Structures & Algo
 
 <br>
 
-<h2 align="center">📊 Statistics</h2>
+<h2 align="center"><img src="https://cdn-icons-png.flaticon.com/512/1828/1828817.png" width="22"/> Statistics</h2>
 
 <div align="center">
 
