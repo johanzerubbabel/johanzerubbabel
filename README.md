@@ -51,9 +51,9 @@ I'm currently focused on strengthening my fundamentals in Data Structures & Algo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=johanzerubbabel&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=johanzerubbabel&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=johanzerubbabel&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" width="48%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=johanzerubbabel&hide_border=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=johanzerubbabel&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff" width="97%"/>
 
 </div>
