@@ -22,7 +22,7 @@ I'm currently focused on strengthening my fundamentals in Data Structures & Algo
 
 <p align="center">
 <i>🎓 Studying CSE at SRM Institute of Science and Technology, KTR Campus</i><br>
-<i>📅 2nd Year Student</i><br>
+<i>🗓️ 2nd Year Student</i><br>
 <i>💻 Currently learning: Data Structures & Algorithms, Web Development</i><br>
 <i>🌱 Always open to new projects and collaborations</i>
 </p>
@@ -53,4 +53,7 @@ I'm currently focused on strengthening my fundamentals in Data Structures & Algo
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=johanzerubbabel&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" width="48%"/>
 
+</div>
+<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=johanzerubbabel&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
