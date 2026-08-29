@@ -9,6 +9,9 @@
 </div>
 
 <br>
+<p align="center">
+  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Keep+Coding alt="Typing SVG" />
+</p>
 
 <h2 align="center">♞ About me</h2>
 
@@ -51,6 +54,18 @@ I'm currently focused on strengthening my fundamentals in Data Structures & Algo
 <div align="center">
   
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=johanzerubbabel&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=johanzerubbabel&label=Profile+Views&color=0e75b6&style=flat" />
-</div>
+<h2 align="center">⌘ Commit Activity</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph.svg">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/midnightshady/midnightshady/output/pacman-contribution-graph-dark.svg">
+</p>
+<h3>🌏Visitor Count</h3>
+
+![](https://komarev.com/ghpvc/?username=johanzerubbabel&color=000000&style=flat-square&label=Profile+Views)
