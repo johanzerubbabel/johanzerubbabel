@@ -51,7 +51,7 @@ I'm currently focused on strengthening my fundamentals in Data Structures & Algo
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=johanzerubbabel&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&r=99" width="60%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=johanzerubbabel&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=johanzerubbabel&label=Profile+Views&color=0e75b6&style=flat" />
 </div>
