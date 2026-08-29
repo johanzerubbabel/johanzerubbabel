@@ -2,7 +2,7 @@
 
 <img src="banner.png" width="100%"/>
 
-<a href="https://www.linkedin.com/in/johanzerubbabel"><img src="https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/johanzerubbabel"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin-white&logoColor=fff" /></a>
 <a href="mailto:johanjm0305@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/u/bkL6Mkpj4k/"><img src="https://img.shields.io/badge/-LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
